@@ -1,0 +1,5 @@
+{
+  "name": "Copy of CyberSleuth: Domain Email Analyzer",
+  "description": "An application that serves as a cybersecurity tool to discover common public-facing email addresses associated with a domain, helping to differentiate legitimate patterns from potentially fake ones.",
+  "requestFramePermissions": []
+}
